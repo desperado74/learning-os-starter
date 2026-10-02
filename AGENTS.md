@@ -2,7 +2,7 @@
 
 ## 新用户初始化 / New-user setup
 
-如果用户希望开始使用学习系统，先读 README.md 和 docs/本地初始化.md。当前完整系统仍为候选，不把初始化组件说成整套系统已完成。
+如果用户希望开始使用学习系统，先读 README.md 和 docs/本地初始化.md。当前为完整系统预览版；初始化与文件流程有代码验证，实际双客户端学习周期仍未验证，不把初始化成功当成教学与接续可靠性的证明。
 
 分步询问目标、课程与实际起点，再问可选的爱好、习惯、时间和教材。用户可跳过，不问密钥，不扫描电脑寻找私人信息。不从模板或初始化推断掌握，不默认读旧工作区。
 
@@ -10,7 +10,7 @@
 
 创建后让用户在生成的私人目录或指定叶节点使用自己的 agent；核对入口确已读取，再核材料与学习起点。私人数据不得写入本公开仓库。
 
-For setup requests, read README.md and docs/本地初始化.md. Discuss goals and courses first, then optional preferences and material references. Use a separate new private directory. Review the dry-run file list with the user before applying. Never modify an existing learning system or put private data in this repository. The full system is still a candidate.
+For setup requests, read README.md and docs/本地初始化.md. Discuss goals and courses first, then optional preferences and material references. Use a separate new private directory. Review the dry-run file list with the user before applying. Never modify an existing learning system or put private data in this repository. This is a full-system preview; successful initialization does not establish reliable teaching or resumption. Actual dual-client learning cycles remain unverified.
 
 ## 项目开发 / Development
 
